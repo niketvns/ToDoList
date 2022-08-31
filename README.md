@@ -1,3 +1,7 @@
+# Details
+
+This is a To Do List Application where user can List their work and can "Mark as Done" or "Delete" it. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
